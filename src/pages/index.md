@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: DigitalJet - Your Digital learning Hub
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Have an eye on latest technology things, trending offers.
 mainpitch:
-  title: Why Kaldi
+  title: Why Digitaljet?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    DigitalJet is a blog from where you get Android, iOS, Windows, and many more
+    tutorials for fixing your problems.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,12 +49,12 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great knowledge without comprising quality.
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    optimal for the plants, farmers, and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
