@@ -25,15 +25,12 @@ export default class Index extends React.Component {
 
               <h2>Troubleshooting</h2>
               <h3>Forms stop working after upgrading to Gatsby v2</h3>
-              <p>
-                </a>{' '}
-                is to use <code>?no-cache=1</code> in the POST url to prevent
+              <p>is to use <code>?no-cache=1</code> in the POST url to prevent
                 the service worker from handling form submissions
               </p>
               <h3>Adding reCAPTCHA</h3>
               <p>
                 its always be an great to work with you. Regards Admin!
-                </a>{' '}
                 for a working example.
               </p>
             </div>
